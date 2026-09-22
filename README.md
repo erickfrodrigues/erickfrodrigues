@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Erick 👋
 
-<!--
-**erickfrodrigues/erickfrodrigues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an Artificial Intelligence undergraduate student at UNIVESP, currently building my foundations in programming, computer science, mathematics, and artificial intelligence.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Bachelor's Degree in Artificial Intelligence at UNIVESP
+- 💻 Currently studying Python and programming
+- 🤖 Former Head Builder in the FIRST LEGO League
+- 🌎 Participated in the FIRST World Festival in Houston, USA
+- 🏆 World's Most Innovative Robot Award — 2022
+- 🔬 Interested in Artificial Intelligence, automation, and intelligent systems
+
+## Currently Learning
+
+- Python
+- Programming Logic
+- Git & GitHub
+- Computer Science Fundamentals
+
+## Interests
+
+Artificial Intelligence · Programming · Robotics · Automation
+
+## Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/erickferreirarodrigues/)
